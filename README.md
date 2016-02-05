@@ -1,4 +1,4 @@
-# GitHub Training — February 4, 2016
+# GitHub Training — February 5, 2016
 
 ## Instructors
 - Allen Smith (@loranallensmith)
