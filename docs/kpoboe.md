@@ -1,3 +1,3 @@
 - [ ] **NAME** Kpoboe
 - [ ] **Occupation** CMtoolsAdmin
-- [ ] **Location** DC
+- [ ] **Location** Washington DC NW
