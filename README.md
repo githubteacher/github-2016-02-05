@@ -10,8 +10,11 @@
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 - [GitHub Desktop](https://desktop.github.com/)
 - [Atom Text Editor](https://atom.io/)
--testadded.
--test2
+
+### Setup
+- Download [GitHub Desktop](https://desktop.github.com)
+- Install [Git for Windows](https://git-for-windows.github.io/)
+- Install and configure a [text editor](https://help.github.com/articles/associating-text-editors-with-git/)
 
 ### Survey
 
