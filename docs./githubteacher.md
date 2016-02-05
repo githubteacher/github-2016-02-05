@@ -2,4 +2,4 @@
 
 - **Name:** GitHub Teacher
 - **Occupation:** Teacher
-- **Location:** San Francisco
+- **Location:** San Francisco, California, USA
